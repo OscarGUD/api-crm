@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Karen",
+      "empresa": "Karen Diseño",
+      "email": "karen@karen.com",
+      "telefono": "116548949",
+      "notas": "Karen esta cotizando",
+      "id": 3
+    },
+    {
+      "nombre": "Gabriel",
+      "empresa": "Codigo con Juan",
+      "email": "correo@correo.com",
+      "telefono": "3318681471",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Fernando",
+      "empresa": "Fernando fotografia",
+      "email": "correo2@correo.com",
+      "telefono": "1236548978",
+      "notas": "",
+      "id": 6
+    },
+    {
+      "nombre": "Oscar",
+      "empresa": "Codigo con Juan",
+      "email": "correo@correo.com",
+      "telefono": "1236548978",
+      "notas": "",
+      "id": 7
+    }
+  ]
+}
